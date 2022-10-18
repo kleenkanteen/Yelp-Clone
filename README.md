@@ -1,6 +1,6 @@
-# Restify Phase 2
+Restaurant review site. Users can create restaurants, post menus, log in, add reviews, etc.
 
-This is a Restful Django backend implementation of the restify project. 
+Tech stack: React + Material UI + Django + SQLite
 
 ## 👌 Setup
 
