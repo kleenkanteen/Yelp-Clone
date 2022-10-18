@@ -1,6 +1,12 @@
-Restaurant review site. Users can create restaurants, post menus, log in, add reviews, etc.
+Restaurant review site. Users can create restaurants, post menus, log in, review, like, etc.
 
 Tech stack: React + Material UI + Django + SQLite
+
+For a 3rd year web dev course. Team of 3.
+
+My role:
+- Implemeted backend and frontend of home feed page where users can subsribe to a restaurant's posts. 
+- Implemeted backend and frontend of notifications page where users can get notified of replies to their reviews. And owners of likes or reviews of their restaurants. 
 
 ## 👌 Setup
 
