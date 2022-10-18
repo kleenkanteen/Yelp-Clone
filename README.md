@@ -13,7 +13,6 @@ Set up the project by running the following commands in a terminal in the projec
 This will start the backend sever!
 
 For the front end, cd into the restify folder and run ``` npm start ```
-##
 
 ### ```Base Backend URL: http://localhost:8000/ ```
 ### ```Base Frontend URL: http://localhost:3000/ ```
@@ -21,7 +20,7 @@ For the front end, cd into the restify folder and run ``` npm start ```
 ### The endpoints can be found in the ENDPOINTS.md markdown file
 
  ## Alternative usage
-The app can be used through the website, postman or the admin panel
+The app can be used through the website, Postman or the Django admin panel.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
