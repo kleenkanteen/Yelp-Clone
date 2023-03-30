@@ -10,6 +10,8 @@ My role:
 
 ## 👌 Setup
 
+The commit history looks shady with all the files added in one go because the git repository was stored on the school git server. I wasn't sure how to copy the .git file here and preserve history so I copied all the files into a new git repo made for this one. Can show the full git history which I have saved.
+
 Set up the project by running the following commands in a terminal in the project folder
 
  **`./startup.sh`**
