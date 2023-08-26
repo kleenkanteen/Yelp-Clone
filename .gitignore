@@ -4,13 +4,10 @@
 .vscode/
 */__pycache__/*
 */migrations/*
-*/P2/P2/*
 
 # General
 *.log
 *.pdf
-*.png
-
 # IDE
 .idea/ # PyCharm settings
 .vscode/ # VSCode settings
